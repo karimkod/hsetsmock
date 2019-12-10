@@ -1,7 +1,5 @@
 {
-    "formations": {
-        "2019": {
-            "december": [
+    "formations":[
                 {
                     "date": "2019-12-10",
                     "sessions": [
@@ -30,8 +28,7 @@
                     ]
                 }
             ]
-        }
-    },
+    ,
     "profile": {
         "name": "Abdelkrim"
     }
