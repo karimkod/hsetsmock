@@ -7,14 +7,14 @@
                             "id" : 1,
                             "title": "HSE 01",
                             "start_hour": "08:00"
-                        },
+                        },{
                                 "id" : 1,
                             "title": "HSE 04",
                             "start_hour": "08:00"
-                        },        "id" : 1,
+                        },  {      "id" : 1,
                             "title": "HSE 05",
                             "start_hour": "08:00"
-                        },        "id" : 1,
+                        },{        "id" : 1,
                             "title": "HSE 06",
                             "start_hour": "08:00"
                         }
