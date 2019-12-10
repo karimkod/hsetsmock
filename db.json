@@ -1,57 +1,62 @@
 {
-    "formations":[
-                {
-                    "date": "2019-12-10",
-                    "sessions": [
-                        {
-                            "id" : 1,
-                            "title": "HSE 01",
-                            "start_hour": "08:00"
-                        },{
-                                "id" : 1,
-                            "title": "HSE 04",
-                            "start_hour": "08:00"
-                        },  {      "id" : 1,
-                            "title": "HSE 05",
-                            "start_hour": "08:00"
-                        },{        "id" : 1,
-                            "title": "HSE 06",
-                            "start_hour": "08:00"
-                        }
-                    ]
-                },
-                {
-                    "date": "2019-12-11",
-                    "sessions": [
-                        {
-                            "id" : 2,
-                            "title": "HSE 02",
-                            "start_hour": "13:00"
-                        }
-                    ]
-                },
-                {
-                    "date": "2019-12-25",
-                    "sessions": [
-                        {
-                            "id" : 3,
-                            "title": "HSE 03",
-                            "start_hour": "10:00"
-                        },
-                         {
-                            "id" : 3,
-                            "title": "HSE 07",
-                            "start_hour": "10:00"
-                        }, {
-                            "id" : 3,
-                            "title": "HSE 08",
-                            "start_hour": "10:00"
-                        }
-                    ]
-                }
-            ]
-    ,
-    "profile": {
-        "name": "Abdelkrim"
-    }
+   "formations":[
+      {
+         "date":"2019-12-10",
+         "sessions":[
+            {
+               "id":1,
+               "title":"HSE 01",
+               "start_hour":"08:00"
+            },
+            {
+               "id":1,
+               "title":"HSE 04",
+               "start_hour":"08:00"
+            },
+            {
+               "id":1,
+               "title":"HSE 05",
+               "start_hour":"08:00"
+            },
+            {
+               "id":1,
+               "title":"HSE 06",
+               "start_hour":"08:00"
+            }
+         ]
+      },
+      {
+         "date":"2019-12-11",
+         "sessions":[
+            {
+               "id":2,
+               "title":"HSE 02",
+               "start_hour":"13:00"
+            }
+         ]
+      },
+      {
+         "date":"2019-12-25",
+         "sessions":[
+            {
+               "id":3,
+               "title":"HSE 03",
+               "start_hour":"10:00"
+            },
+            {
+               "id":3,
+               "title":"HSE 07",
+               "start_hour":"10:00"
+            },
+            {
+               "id":3,
+               "title":"HSE 08",
+               "start_hour":"10:00"
+            }
+         ]
+      }
+   ],
+   "profile":{
+      "name":"Abdelkrim"
+   }
 }
