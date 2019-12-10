@@ -1,30 +1,36 @@
 {
-  "formations": {
-    "2019/december": [
-      {
-        "date" : "2019-12-10", 
-        "sessions" : [
-          "title":"HSE 01", 
-          "start_hour" : "08:00"
-         ]
-      },
-       {
-        "date" : "2019-12-11", 
-        "sessions" : [
-          "title":"HSE 02", 
-          "start_hour" : "13:00"
-         ]
-      },
+   "formations":{
+      "2019/december":[
          {
-        "date" : "2019-12-25", 
-        "sessions" : [
-          "title":"HSE 03", 
-          "start_hour" : "10:00"
-         ]
-      }
-    ]
-  },
-  "profile": {
-    "name": "typicode"
-  }
+            "date":"2019-12-10",
+            "sessions":[
+               {
+                  "title":"HSE 01",
+                  "start_hour":"08:00"
+               }
+            ]
+         },
+         {
+            "date":"2019-12-11",
+            "sessions":[
+               {
+                  "title":"HSE 02",
+                  "start_hour":"13:00"
+               }
+            ]
+         },
+         {
+            "date":"2019-12-25",
+            "sessions":[
+               {
+                  "title":"HSE 03",
+                  "start_hour":"10:00"
+               }
+            ]
+         }
+      ]
+   },
+   "profile":{
+      "name":"Abdelkrim"
+   }
 }
