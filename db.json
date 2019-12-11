@@ -1,61 +1,120 @@
 {
    "formations":[
-      {
-         "date":"2019-12-10",
-         "sessions":[
-            {
-               "id":1,
-               "title":"HSE 01",
-               "start_hour":"08:00"
-            },
-            {
-               "id":1,
-               "title":"HSE 04",
-               "start_hour":"08:00"
-            },
-            {
-               "id":1,
-               "title":"HSE 05",
-               "start_hour":"08:00"
-            },
-            {
-               "id":1,
-               "title":"HSE 06",
-               "start_hour":"08:00"
-            }
-         ]
-      },
-      {
-         "date":"2019-12-11",
-         "sessions":[
-            {
-               "id":2,
-               "title":"HSE 02",
-               "start_hour":"13:00"
-            }
-         ]
-      },
-      {
-         "date":"2019-12-25",
-         "sessions":[
-            {
-               "id":3,
-               "title":"HSE 03",
-               "start_hour":"10:00"
-            },
-            {
-               "id":3,
-               "title":"HSE 07",
-               "start_hour":"10:00"
-            },
-            {
-               "id":3,
-               "title":"HSE 08",
-               "start_hour":"10:00"
-            }
-         ]
-      }
-   ],
+    {
+        "id_session": 1,
+        "date": "2019-11-21",
+        "heure": "19:10:54",
+        "heure_reelle": "16:00:00",
+        "heure_fin": "16:00:00",
+        "duration": "00:00:02",
+        "state": "future",
+        "session_name": "Session_test",
+        "formateur": 0,
+        "candidats": [
+            2,
+            3
+        ],
+        "id_Equipement": [
+            1
+        ]
+    },
+    {
+        "id_session": 5,
+        "date": "2019-11-21",
+        "heure": "14:27:50",
+        "heure_reelle": "16:00:00",
+        "heure_fin": "16:00:00",
+        "duration": "00:00:02",
+        "state": "future",
+        "session_name": "Session",
+        "formateur": 0,
+        "candidats": [
+            2,
+            3
+        ],
+        "id_Equipement": [
+            1,
+            2
+        ]
+    },
+    {
+        "id_session": 3,
+        "date": "2019-11-23",
+        "heure": "15:00:27",
+        "heure_reelle": "16:00:00",
+        "heure_fin": "16:00:00",
+        "duration": "00:00:02",
+        "state": "future",
+        "session_name": "Session-test2",
+        "formateur": 0,
+        "candidats": [
+            2,
+            3
+        ],
+        "id_Equipement": [
+            1
+        ]
+    },
+    {
+        "id_session": 4,
+        "date": "2019-11-24",
+        "heure": "10:27:14",
+        "heure_reelle": "16:00:00",
+        "heure_fin": "16:00:00",
+        "duration": "00:00:02",
+        "state": "actual",
+        "session_name": "HSE",
+        "formateur": 0,
+        "candidats": [
+            2,
+            3
+        ],
+        "id_Equipement": [
+            1
+        ]
+    },
+    {
+        "id_session": 6,
+        "date": "2019-12-08",
+        "heure": "17:00:00",
+        "heure_reelle": "16:00:00",
+        "heure_fin": "16:00:00",
+        "duration": "00:00:02",
+        "state": "future",
+        "session_name": "Session_test23",
+        "formateur": 0,
+        "candidats": [
+            2,
+            3,
+            4
+        ],
+        "id_Equipement": [
+            1,
+            2
+        ]
+    },
+    {
+        "id_session": 7,
+        "date": "2019-12-31",
+        "heure": "16:00:00",
+        "heure_reelle": "16:00:00",
+        "heure_fin": "16:00:00",
+        "duration": "01:00:00",
+        "state": "future",
+        "session_name": "Session fin d'année",
+        "formateur": 0,
+        "candidats": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "id_Equipement": [
+            1,
+            2
+        ]
+    }
+],
    "profile":{
       "name":"Abdelkrim"
    }
